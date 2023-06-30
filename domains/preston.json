@@ -1,1 +1,12 @@
-
+{
+    "owner": {
+        "username": "PEACODE21",
+        "email": "oluwamayowasodipo@gmail.com",
+        "phoneno": "09155598422",
+        "linkedin": "https://www.linkedin.com/in/oluwamayowa-sodipo-6465401b7/"
+    },
+    "description": "Test domain for my portfolio",
+    "record": {
+        "CNAME": "peacode21.github.io"
+    }
+}
